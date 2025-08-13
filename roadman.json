@@ -1,0 +1,81 @@
+...
+  {
+    "category": "Scaling",
+    "action": "Criar programa de afiliados para escalar vendas",
+    "tools": ["GoAffPro", "Shopify"],
+    "goal": "Aumentar vendas por rede de afiliados",
+    "deadline": "10 dias",
+    "priority": "Média",
+    "execution_order": 80,
+    "tags": ["Affiliate Marketing"]
+[
+  {
+    "category": "Market Research",
+    "action": "Listar 20 produtos mais vendidos no AliExpress no seu nicho e analisar preço e avaliações",
+    "tools": ["AliExpress", "Google Sheets"],
+    "goal": "Identificar produtos com alta demanda",
+    "deadline": "3 dias",
+    "priority": "Alta",
+    "execution_order": 1,
+    "tags": ["Quick Win", "Low Budget"]
+  },
+  {
+    "category": "Market Research",
+    "action": "Analisar top 5 concorrentes diretos e criar tabela de comparação de preços, ofertas e diferenciais",
+    "tools": ["SimilarWeb", "Facebook Ads Library"],
+    "goal": "Encontrar oportunidades de posicionamento",
+    "deadline": "5 dias",
+    "priority": "Alta",
+    "execution_order": 2,
+    "tags": ["Competitive Analysis"]
+  },
+  {
+    "category": "Market Research",
+    "action": "Coletar reclamações mais comuns de produtos similares no Amazon",
+    "tools": ["Amazon", "Excel"],
+    "goal": "Identificar pontos de melhoria",
+    "deadline": "2 dias",
+    "priority": "Média",
+    "execution_order": 3,
+    "tags": ["Customer Insights"]
+  },
+  {
+    "category": "Market Research",
+    "action": "Identificar 10 palavras-chave com alta intenção de compra no Google",
+    "tools": ["Google Keyword Planner", "Ahrefs"],
+    "goal": "Aumentar chances de tráfego qualificado",
+    "deadline": "4 dias",
+    "priority": "Alta",
+    "execution_order": 4,
+    "tags": ["SEO", "Quick Win"]
+  },
+  {
+    "category": "Market Research",
+    "action": "Fazer pesquisa no Google Trends sobre tendências de produtos do nicho",
+    "tools": ["Google Trends"],
+    "goal": "Identificar sazonalidade e crescimento",
+    "deadline": "1 dia",
+    "priority": "Alta",
+    "execution_order": 5,
+    "tags": ["Market Trends"]
+  },
+  {
+    "category": "Brand Positioning",
+    "action": "Definir USP (Proposta Única de Valor) clara e objetiva",
+    "tools": ["Google Docs", "Brainstorming Frameworks"],
+    "goal": "Diferenciar marca da concorrência",
+    "deadline": "3 dias",
+    "priority": "Alta",
+    "execution_order": 6,
+    "tags": ["Brand Strategy"]
+  },
+  {
+    "category": "Brand Positioning",
+    "action": "Criar missão e valores da marca",
+    "tools": ["Google Docs"],
+    "goal": "Dar identidade e propósito à marca",
+    "deadline": "2 dias",
+    "priority": "Média",
+    "execution_order": 7,
+    "tags": ["Brand Identity"]
+  },
