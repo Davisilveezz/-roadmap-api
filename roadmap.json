@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Etapa 1 - Introdução",
+    "tasks": [
+      "Ler documentação do projeto",
+      "Instalar dependências",
+      "Configurar ambiente de desenvolvimento"
+    ]
+  },
+  {
+    "title": "Etapa 2 - Backend",
+    "tasks": [
+      "Criar servidor Express",
+      "Implementar rotas",
+      "Conectar ao banco de dados"
+    ]
+  },
+  {
+    "title": "Etapa 3 - Frontend",
+    "tasks": [
+      "Criar estrutura de pastas",
+      "Implementar páginas principais",
+      "Conectar API ao frontend"
+    ]
+  },
+  {
+    "title": "Etapa 4 - Testes",
+    "tasks": [
+      "Escrever testes unitários",
+      "Testar integração",
+      "Corrigir bugs encontrados"
+    ]
+  }
+]
